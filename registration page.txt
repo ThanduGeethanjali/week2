@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>welcome to bookstagram website</title>
+<scriptype="text/javascript"></script>
+</head>
+<body>
+<center>
+<h1>registration form</h1>
+</br>
+<table cell padding="1" align="center">
+<tr><td><b>username:*</b></td>
+<td>input type="text"name:"username"></td></tr>
+<tr><td><b>"password"name="password"></td></tr>
+<tr><td><b><emailid:*</b></td>
+<td><input type="text"name="email"></tr>
+<tr><td><b>phoneno:*</b></td>
+<td><input type="text"name="phno"></td></tr>
+<tr><td valign="top"><b>gender:*</b></td>
+<td><input type="radio" name="gen"value="male><b>male</b></td></tr>
+<input type="radio name="gen"value="female"><b>female</b></td></tr>
+<td><td valign="top"><b>languageknown:*</td></tr>
+<td><input type="checkbox"name="lang"value="english">english<br>
+</td>
+</tr>
+<tr><td valign="top"><b>address:*</b></td>
+<td><textareaname="address"></text area></td></tr>
+<tr><td><input type="button"value="submit"hspace="10"on click="validate()">
+<input type="reset" value="RESET"></td></tr>
+<tr><td colspan=2>*<font color="red">
+fields are mandatory</font></html>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>
