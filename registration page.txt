@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>welcome to bookstagram website</title>
+<title>welcome to students bookstagram website</title>
 <scriptype="text/javascript"></script>
 </head>
 <body>
